@@ -21,7 +21,6 @@
 - [CSV Converter](#csv-converter)
 - [Troubleshooting](#troubleshooting)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -293,20 +292,6 @@ h5p-content-downloader/
     ├── sample_hierarchical.csv    # Hierarchical format — course/module/section
     └── course_planner_template.csv # Template for course planner spreadsheet input
 ```
-
----
-
-## Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/my-improvement`
-3. Commit your changes: `git commit -m "Add my improvement"`
-4. Push to the branch: `git push origin feature/my-improvement`
-5. Open a Pull Request
-
-Please keep PRs focused and include a clear description of what changed and why.
 
 ---
 
