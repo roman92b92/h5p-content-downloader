@@ -1,0 +1,37 @@
+# ── Credentials & session data ───────────────────────────────────────────────
+config.json
+session_cookies.pkl
+
+# ── Downloaded H5P content ────────────────────────────────────────────────────
+downloads/
+*.h5p
+*.rar
+*.zip
+
+# ── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.env
+.venv
+venv/
+env/
+ENV/
+
+# ── OS artefacts ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE settings ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
