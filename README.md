@@ -317,4 +317,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 
-This tool is intended for downloading content you have legitimate access to through your own account. Always comply with the terms of service of the platform you are downloading from. The authors are not responsible for any misuse.
+> **Use at your own risk.**
+
+This tool is provided as-is, without any warranty of any kind. By using it, you accept full responsibility for any consequences — including but not limited to account suspension, data loss, or legal issues.
+
+- This tool is intended solely for downloading content you have legitimate access to through your own account.
+- Always comply with the terms of service of the platform you are downloading from.
+- The authors are not responsible for any misuse, damage, or liability arising from the use of this software.
