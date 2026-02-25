@@ -67,14 +67,15 @@ It is particularly useful for course authors, instructional designers, and LMS a
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/h5p-content-downloader.git
+git clone https://github.com/roman92b92/h5p-content-downloader.git
 cd h5p-content-downloader
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
 # 3. Create your config file
-cp config.example.json config.json
+cp config.example.json config.json        # macOS / Linux
+copy config.example.json config.json      # Windows
 # Edit config.json with your credentials (see Configuration section)
 
 # 4. Run with the included example
